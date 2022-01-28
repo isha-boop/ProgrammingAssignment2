@@ -1,6 +1,6 @@
-## the following functions store the cache of the inverse of a matrix
-## so they computed values can be stored and recalled without 
-## spending time on more computation
+## the following functions stores the cache of the inverse of a matrix
+## so the computed values can be stored and recalled without 
+## spending more time on the same computation
 
 ## makeCacheMatrix creates a special matrix which first sets the 
 ## elements of the matrix, then gets the gets and then sets the 
